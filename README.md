@@ -5,7 +5,6 @@ I’m a developer with strong skills in front-end technologies. I also have expe
 
 Skills: HTML / CSS / JS / BOOTSTRAP / JAVA / PYTHON 
 
-- 🔭 I’m currently working on Online Coffee Shop Website 
 - 🌱 I’m currently learning Data Structures & Algorithms 
 - 👯 I’m looking to collaborate on open-source projects 
 - 💬 Ask me about Python, Java, and web development 
