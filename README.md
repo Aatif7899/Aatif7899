@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aatif7899/Aatif7899/blob/main/Banner.png?raw=true" alt="Mohd Aatif Banner" width="100%" />
+  <img src="https://github.com/Aatif7899/Aatif7899/blob/main/Banner.png.png?raw=true" alt="Mohd Aatif Banner" width="100%" />
 </div>
 
 # Hi there, I'm Aatif 👋
